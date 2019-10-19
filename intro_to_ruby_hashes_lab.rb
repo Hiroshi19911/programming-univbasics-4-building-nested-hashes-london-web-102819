@@ -1,6 +1,5 @@
 def base_hash
-  
-	{}
+  planets = {}
 end
 
 def monopoly_with_second_tier
