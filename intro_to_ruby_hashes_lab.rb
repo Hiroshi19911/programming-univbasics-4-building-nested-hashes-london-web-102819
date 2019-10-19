@@ -1,5 +1,5 @@
 def base_hash
-  solar_system = {:planets => 'earth'}
+  solar_system = {:railroads => ''}
 end
 
 def monopoly_with_second_tier
